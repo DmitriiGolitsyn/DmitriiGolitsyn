@@ -16,7 +16,7 @@
 
 <h3>Contact me</h3>
 
-Telegram = <a link="https://t.me/yarkzvezda">yarkzvezda</a>
+Telegram = <a href="https://t.me/yarkzvezda" target="_blank">yarkzvezda</a>
 
 Phone | WhatsAp = +79250823619
 
