@@ -14,8 +14,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-###Contact me
+<h3>Contact me</h3>
 
 Telegram = yarkzvezda
+
 Phone/WhatsUp = +79250823619
+
 E-mail = dgolitsyn@yandex.ru
