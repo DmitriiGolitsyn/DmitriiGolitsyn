@@ -18,6 +18,6 @@
 
 Telegram = <a href="https://t.me/yarkzvezda" target="_blank">yarkzvezda</a>
 
-Phone | WhatsAp = <a href="https://wa.me/79250823619" target="_blank">+79250823619</a>
+Phone | WhatsApp = <a href="https://wa.me/79250823619" target="_blank">+79250823619</a>
 
 E-mail = dgolitsyn@yandex.ru
